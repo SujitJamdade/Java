@@ -1,2 +1,2 @@
 # Java
-Java Self learning 
+My Java Self learning work.
