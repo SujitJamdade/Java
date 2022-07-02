@@ -1,2 +1,2 @@
 # Java Practice 
-My Java Self learning work.
+Java Self learning
